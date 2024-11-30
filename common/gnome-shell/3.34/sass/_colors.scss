@@ -48,7 +48,7 @@ $header_fg: if($variant == 'light' or $variant=='lighter', saturate(transparenti
 $header_fg: if($variant=='darker', saturate(transparentize(#fbf1c7, 0.2), 10%), $header_fg);
 
 $dark_sidebar_bg: if($transparency == 'true', transparentize(#282828, 0.05), #282828);
-$dark_sidebar_fg: #BAC3CF;
+$dark_sidebar_fg: #fbf1c7;
 @if $variant == 'lighter' {
   $dark_sidebar_bg: if($transparency == 'true', transparentize($bg_color, 0.05), $bg_color);
   $dark_sidebar_fg: $fg_color;
