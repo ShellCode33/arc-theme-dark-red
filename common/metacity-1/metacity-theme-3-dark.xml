@@ -15,8 +15,8 @@
 <constant name="C_title_focused" value="gtk:custom(wm_title,#afb8c6)" />
 <constant name="C_title_unfocused" value="gtk:custom(wm_unfocused_title,#8a939f)" />
 
-<constant name="C_wm_bg_focused" value="gtk:custom(wm_bg,#2f343f)" />
-<constant name="C_wm_bg_unfocused" value="gtk:custom(wm_bg,#2f343f)" />
+<constant name="C_wm_bg_focused" value="gtk:custom(wm_bg,#1d2021)" />
+<constant name="C_wm_bg_unfocused" value="gtk:custom(wm_bg,#1d2021)" />
 
 <constant name="C_wm_highlight" value="gtk:custom(wm_highlight,#353a48)" />
 <constant name="C_wm_border" value="gtk:custom(wm_border,#21242b)" />
@@ -28,7 +28,7 @@
 <constant name="C_button_close_bg_hover" value="gtk:custom(wm_button_close_hover_bg,#d7787d)" />
 <constant name="C_button_close_bg_active" value="gtk:custom(wm_button_close_active_bg,#be3841)" />
 
-<constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#2f343f)" />
+<constant name="C_icon_close_bg" value="gtk:custom(wm_icon_close_bg,#1d2021)" />
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="gtk:custom(wm_button_hover_bg,#454C5C)" />
