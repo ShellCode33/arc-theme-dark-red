@@ -3028,7 +3028,7 @@
              style="display:inline"
              transform="translate(58,0)">
             <path
-               style="fill:#f46067;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="fill:#a03032;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                d="M 172 58 A 7 7 0 0 0 165 65 A 7 7 0 0 0 172 72 A 7 7 0 0 0 179 65 A 7 7 0 0 0 172 58 z M 169 61.921875 L 169.75 61.921875 C 169.75778 61.921785 169.76559 61.92153 169.77344 61.921875 C 169.96465 61.930275 170.15584 62.01831 170.28906 62.15625 L 172 63.867188 L 173.73438 62.15625 C 173.93359 61.983375 174.06938 61.927125 174.25 61.921875 L 175 61.921875 L 175 62.671875 C 175 62.886728 174.97424 63.084862 174.8125 63.234375 L 173.10156 64.945312 L 174.78906 66.632812 C 174.9302 66.77394 174.99999 66.9729 175 67.171875 L 175 67.921875 L 174.25 67.921875 C 174.05102 67.921867 173.85206 67.85205 173.71094 67.710938 L 172 66 L 170.28906 67.710938 C 170.14794 67.85208 169.94897 67.921875 169.75 67.921875 L 169 67.921875 L 169 67.171875 C 169 66.972908 169.06979 66.77394 169.21094 66.632812 L 170.92188 64.945312 L 169.21094 63.234375 C 169.05288 63.088403 168.98357 62.882438 169 62.671875 L 169 61.921875 z "
                transform="translate(1204,190)"
                id="path4068-7-5-9-6" />
@@ -4134,7 +4134,7 @@
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#f46067;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#a03032;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-07-4"
                width="50"
                height="20"
@@ -4249,7 +4249,7 @@
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#f46067;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#a03032;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-02-4"
                width="50"
                height="20"
@@ -4948,7 +4948,7 @@
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#f46067;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#a03032;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-07-5-3-3"
                width="50"
                height="20"
@@ -5063,7 +5063,7 @@
                x="0"
                y="1029.3622" />
             <rect
-               style="fill:#f46067;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#a03032;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="rect2987-02-7-6-5"
                width="50"
                height="20"

@@ -92,7 +92,7 @@ $osd_borders_color: if($variant != 'lighter', transparentize(black, 0.3), transp
 //WM Buttons
 
 // Close
-$wm_button_close_bg: if($variant == 'light' or $variant=='lighter', #f46067, #b71c1c);
+$wm_button_close_bg: if($variant == 'light' or $variant=='lighter', #a03032, #b71c1c);
 $wm_button_close_hover_bg: if($variant == 'light' or $variant=='lighter', #f68086, #9d0006);
 $wm_button_close_active_bg: if($variant == 'light' or $variant=='lighter', #f13039, #bd0006);
 
