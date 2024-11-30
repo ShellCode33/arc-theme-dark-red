@@ -82,9 +82,9 @@ $header_button_border: if($variant == 'dark' or $variant == 'darker', transparen
 //WM Buttons
 
 // Close
-$wm_button_close_bg: if($variant == 'light', #f46067, #cc575d);
-$wm_button_close_hover_bg: if($variant == 'light', #f68086, #d7787d);
-$wm_button_close_active_bg: if($variant == 'light', #f13039, #be3841);
+$wm_button_close_bg: if($variant == 'light', #f46067, #b71c1c);
+$wm_button_close_hover_bg: if($variant == 'light', #f68086, #9d0006);
+$wm_button_close_active_bg: if($variant == 'light', #f13039, #bd0006);
 
 $wm_icon_close_bg: if($variant == 'light', #F8F8F9 , #1d2021);
 
